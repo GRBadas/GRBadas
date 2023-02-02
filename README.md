@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gabriel Badaró, mas pode me chamar de Badas ! 👋
 
-- 🌱 Atualmente estou estuando Java 
+- 🌱 Atualmente estou estudando Java, focado em Spring REST
 - 🤔 Busco ajuda no aprendizado geral de programação
 - 📫 Contate-me no email : grbadas@gmail.com
 
